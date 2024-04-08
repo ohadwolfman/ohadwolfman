@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ohad Wolfman</h1>
-<h3 align="center">Computer science & data science and ML student 2nd year</h3>
+<h3 align="center">Computer science & Data science and machine learning student 3rd year</h3>
 
-- 👨‍💻 Works as a research assistant in the computer science department at Ariel University in the field of NLP
-- 🌱 Teaches at the Center for Cyber Education in the Mamriot program
 - 📫 How to reach me **ohad1696@gmail.com**
+- [WhatsApp](https://wa.me/972545451344)
 
 <h3 align="left">Languages and Tools:</h3>
 
